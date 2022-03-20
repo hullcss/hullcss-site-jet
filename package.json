@@ -1,7 +1,7 @@
 {
-  "name": "jet",
-  "version": "4.1.1",
-  "description": "It's (j)ust (e)leventy and (t)ailwind … OK, and a few other things; it's still *really* small though.",
+  "name": "hullcss-jet",
+  "version": "0.0.1",
+  "description": "hullcss.org JET rewrite",
   "scripts": {
     "clean": "rimraf public",
     "dev:tailwind": "npx tailwindcss -i src/css/tailwind.css -o public/css/styles.css --watch",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://marcamos@github.com/marcamos/jet.git"
+    "url": "git+https://crimsontome@github.com/crimsontome/hullcss-site-jet.git"
   },
   "keywords": [
     "eleventy",
@@ -21,12 +21,12 @@
     "tailwind",
     "tailwindcss"
   ],
-  "author": "marc amos",
+  "author": "Crimsontome",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/marcamos/jet/issues"
+    "url": "https://github.com/crimson/hullcss-site-jet/issues"
   },
-  "homepage": "https://github.com/marcamos/jet#readme",
+  "homepage": "https://github.com/crimsontome/hullcss-site-jet#readme",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.0",
     "npm-run-all": "^4.1.5",
