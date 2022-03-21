@@ -9,8 +9,68 @@
   </head>
   <body>
     <main>
+      <div class="grid-container headercontain">
+  <div class="container">
+    <a href="{{ site.baseurl }}/"
+      ><img class="hullcss-logo" src="/img/hcsslogonobg.png"
+    /></a>
+
+    <div class="rightblock">
+      <a href="/" class="btn btn-success">Home</a>
+      <a href="/about" class="btn btn-success">About</a>
+      <a href="/blog" class="btn btn-success">Blog</a>
+      <a href="//www.facebook.com/pg/hullCSS/events/" class="btn btn-success"
+        >Events</a
+      >
+      <a href="/contact" class="btn btn-success">Contact</a>
+      <a
+        href="https://hulluniunion.com/shop?aid=304"
+        class="btn btn-success jointoday"
+        >Join Today</a
+      >
+    </div>
+  </div>
+</div>
       {{ content }}
+      <div class="grid-container footergrid">
+<div class="container">
+
+  <div class="grid-33 mobile-grid-100">
+  <div class="foot-titleblock">Find us online:</div>
+  <a href="//fb.me/hullcss"><i class="fab fa-facebook-square" aria-hidden="true"></i> Facebook</a><br>
+  <a href="//www.linkedin.com/company/18601937/"><i class="fab fa-linkedin" aria-hidden="true"></i> LinkedIn</a><br>
+  <a href="/discord"><i class="fab fa-discord"></i>
+  Discord</a>
+
+  <br></div>
+
+
+  <div class="grid-33 mobile-grid-100">
+  <div class="foot-titleblock">Find us IRL:</div>
+	#hullCSS<br>
+  Hull Universiy Union<br>
+  Student Central<br>
+	University of Hull<br>
+	Cottingham Road<br>
+	Hull<br>
+	HU6 7RX<br><br>
+  <img class="rep-brands" src="{{site.baseurl}}/images/brand/huu-brand.png">
+  <img class="rep-brands" src="{{site.baseurl}}/images/brand/university-brand.png">
+  <br></div>
+
+
+  <div class="grid-33 mobile-grid-100">
+  <div class="foot-titleblock">Working with:</div>
+  <img class="rep-brands" src="{{site.baseurl}}/images/brand/bcs.png">
+  <br><br></div>
+  <br>
+
+  <div class="grid-33 mobile-grid-100">
+  <div class="foot-titleblock">Legal stuff</div>
+  <a href="/policies"> Legal Policies</a><br>
+</div>
+</div>
+</div>
     </main>  
   </body>
-  {{% include "footer.html" %}}
 </html>
