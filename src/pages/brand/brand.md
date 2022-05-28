@@ -9,7 +9,6 @@ description: 'The Brand Identity of hullCSS'
 
 <section class="section">
     <div class="title"><span class="light">understanding our</span><b> brand</b></div>
-	<!-- <hr class="divider">
 
     <h3 class="subtitle is-5">Who are we?</h3>
 
