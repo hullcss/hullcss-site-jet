@@ -10,4 +10,8 @@ IN VERY EARLY DEV
 
 ## Development
 
-clone the repo, run `npm i` to install dependencies, `npm run dev`, make some changes and watch them update in the browser. 
+clone the repo, run `npm i` to install dependencies, `npm run dev`, make some changes and watch them update in the browser.
+
+## Contributing
+
+Please see the [contributing guide](https://github.com/hullcss/hullcss-site-jet/CONTRIBUTING.md)
