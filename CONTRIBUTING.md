@@ -2,7 +2,7 @@
 
 Thank you for contributing to this repository, before submitting any changes please read our general guidelines [here](https://github.com/hullcss/contributing)  
 
-There are many ways to get started
+There are many ways to get started. This guide assumes you have both `git` and `gh` installed on your system
 
 ## Via the Command Line
 
