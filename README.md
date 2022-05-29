@@ -4,7 +4,7 @@ transferring main files e.g. posts and rewriting the css to be eleventy and tail
 
 original repo is [here](https://github.com/hullcss/hullcss-site)  
 
-original author is [here](https://github.com/hullcss/hullcss-site)  
+original authors include [Kieran Robson](https://github.com/kieranrobson) and [Nathaniel Read](https://github.com/itisNathaniel)  
 
 IN VERY EARLY DEV
 
