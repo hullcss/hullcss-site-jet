@@ -14,4 +14,4 @@ clone the repo, run `npm i` to install dependencies, `npm run dev`, make some ch
 
 ## Contributing
 
-Please see the [contributing guide](https://github.com/hullcss/hullcss-site-jet/CONTRIBUTING.md)
+Please see the [contributing guide]((https://github.com/hullcss/hullcss-site-jet/blob/main/CONTRIBUTING.md))
