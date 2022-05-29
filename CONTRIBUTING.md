@@ -11,10 +11,12 @@ There are many ways to get started
 click on the `fork` button on the repo page  
 In your terminal type `git clone https://github.com/hullcss/hullcss-site-jet`  
 
-### using [GitHub CLI](https://cli.github.com/)  
+### Using [GitHub CLI](https://cli.github.com/)  
 
 Tn your terminal type
 `gh repo fork hullcss/hullcss-site-jet`  
+
+### Making your changes
 
 Once the repo has been forked and is on your system, you'll want to create a new branch with a name detailing what your branch is. An example would be  
 
