@@ -39,5 +39,20 @@ you can then use the `gh repo create` command to make a pull request to have you
 You will be given a few prompts, fill them in and enter Submit.  
 
 ## Using GitHub's web interface
+Fork the repo.
+![image](https://user-images.githubusercontent.com/32241933/172265231-af0b9d5b-319a-4d8e-b02a-6128d1653f32.png)
 
-Guide coming soon
+Clone your newley forked repo into Visual Studio Code using the HTTP URL found when pressing the green code button.
+![image](https://user-images.githubusercontent.com/32241933/172265363-a7828729-d670-41a9-a973-74a42ef14dd9.png)
+
+![image](https://user-images.githubusercontent.com/32241933/172265425-f062b8a2-0f27-4c78-8edf-2fd289f316d8.png)
+
+Make your changes.
+
+Press the Git button and push your changes.
+![image](https://user-images.githubusercontent.com/32241933/172265784-9f0ae2e4-ffb0-451a-9f60-329b317aeb61.png)
+
+Press Contribute and follow the steps to create a pull request.
+![image](https://user-images.githubusercontent.com/32241933/172265961-adb7dcf0-4018-4698-aeba-9f86bc5a4013.png)
+
+Congratulations, You now have contributed to the site repo unless your changes are denied or you need to make more changes.
