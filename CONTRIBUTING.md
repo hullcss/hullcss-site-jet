@@ -40,4 +40,4 @@ You will be given a few prompts, fill them in and enter Submit.
 
 ## Using GitHub's web interface
 
-Guide coming soon
+See the society general [Contributing Guidelines](https://github.com/hullcss/CONTRIBUTING)
