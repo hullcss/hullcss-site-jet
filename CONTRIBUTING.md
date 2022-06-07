@@ -35,7 +35,7 @@ git push --set-upstream origin your-branch-name
 
 note: `--set-upstream origin testing` is only required if you have not already made a contribution. All pushes outside of your first can be done through a plain `git push`  
 
-you can then use the `gh repo create` command to make a pull request to have your changes reviewed and potentially merged into the main repository.  
+you can then use the `gh pr create` command to make a pull request to have your changes reviewed and potentially merged into the main repository.  
 You will be given a few prompts, fill them in and enter Submit.  
 
 ## Using GitHub's web interface
