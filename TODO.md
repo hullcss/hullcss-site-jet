@@ -6,3 +6,4 @@
 [x] policies page  
 [ ] home page with banner  
 [ ] blog  
+[ ] proper formatting
