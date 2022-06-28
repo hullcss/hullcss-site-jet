@@ -7,3 +7,4 @@
 [ ] home page with banner  
 [ ] blog  
 [ ] proper formatting
+[ ] events management with hullcss-discord-bot
