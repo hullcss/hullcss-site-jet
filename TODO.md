@@ -8,3 +8,4 @@
 [ ] blog  
 [ ] proper formatting
 [ ] events management with hullcss-discord-bot
+[ ] add docker container
