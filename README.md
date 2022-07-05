@@ -13,9 +13,9 @@ IN VERY EARLY DEV
 clone the repo, run `npm i` to install dependencies, `npm run dev`, make some changes and watch them update in the browser.
 
 the site can also be built and ran inside a docker container
-when you are in the base of the repo:
-`sudo docker build -t hullcss .`
-`sudo docker run -it -d -p unused-port-number:80 hullcss`
+when you are in the base of the repo:  
+`sudo docker build -t hullcss .`  
+`sudo docker run -it -d -p unused-port-number:80 hullcss`  
 visit `localhost:port` or `ip:port` if you are hosting on a VPS and the site should be available to view
 
 ## Dockerfile
