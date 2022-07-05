@@ -1,7 +1,7 @@
 {
   "name": "hullcss-jet",
-  "version": "0.0.1",
-  "description": "hullcss.org JET rewrite",
+  "version": "0.1.0",
+  "description": "hullcss.org JET rewrite by CrimsonTome",
   "scripts": {
     "clean": "rimraf public",
     "dev:tailwind": "npx tailwindcss -i src/css/tailwind.css -o public/css/styles.css --watch",
