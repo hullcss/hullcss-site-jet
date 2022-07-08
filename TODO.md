@@ -6,10 +6,10 @@
 [x] brand page  
 [x] contact page  
 [x] policies page  
-[ ] fix css whiteboxes issue  
+[x] fix css whiteboxes issue  
 [ ] home page with banner  
 [ ] proper formatting  
-[ ] init blog (may be empty but won't throw an error)  
+[x] init blog (may be empty but won't throw an error)  
 
 ## Road to 2.0.0
 
@@ -17,3 +17,4 @@
 [ ] hullblogs integration  
 [ ] events management with hullcss-discord-bot  
 [x] add docker container  
+[ ] fix the meess of CSS

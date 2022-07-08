@@ -5,8 +5,8 @@ permalink: 'about/'
 description: "Who are #hullCSS? We're the Computer Science at the University of Hull, looking to make the lives of students more exciting and expand technology beyond the course."
 ---
 
-We're not just #hullCSS, we're <br>
-<span class="bigtext-slogan-thing">#yourCSS</span>
+<h3>We're not just #hullCSS, we're <br>
+<span class="bigtext-slogan-thing">#yourCSS</span></h3>
 
 <div class="grid-containter">
 <br>
@@ -72,7 +72,7 @@ Providing engaging and academically supporting activities and events for student
 <div class="card mb-2" style="max-width: 20rem;">
   <div class="card-header white">Making a cool project but need a hand?</div>
   <div class="card-body text-secondary">
-    <p class="card-text">Post in the Discors server, we've got a group of keen open source programmers in our community who'd be happy to give you some pointers  <br>
+    <p class="card-text">Post in the Discord server, we've got a group of keen programmers in our community who'd be happy to give you some pointers  <br>
     <br>
     <a href="https://discord.com/invite/vnrG9Qc3Cj" class="btn btn-success">Post there</a>
     </p>
