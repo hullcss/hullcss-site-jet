@@ -7,8 +7,7 @@
 [x] contact page  
 [x] policies page  
 [x] fix css whiteboxes issue  
-[ ] home page with banner  
-[ ] proper formatting  
+[x] home page with banner  
 [x] init blog (may be empty but won't throw an error)  
 
 ## Road to v2.0.0
