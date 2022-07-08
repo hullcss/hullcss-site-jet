@@ -9,7 +9,7 @@
 [x] fix css whiteboxes issue  
 [x] home page with banner  
 [x] init blog (may be empty but won't throw an error)  
-[ ] fix banner mobile scaling  
+[x] fix banner mobile scaling  
 
 ## Road to v2.0.0
 
