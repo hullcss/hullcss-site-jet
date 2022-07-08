@@ -11,7 +11,7 @@
 [ ] proper formatting  
 [x] init blog (may be empty but won't throw an error)  
 
-## Road to 2.0.0
+## Road to v2.0.0
 
 [ ] blog with posts  
 [ ] hullblogs integration  
