@@ -3,8 +3,6 @@
 
 Transferring main files e.g. posts and rewriting the css to be eleventy and tailwind compliant.  
 
-IN VERY EARLY DEV
-
 ## Development
 Manual 
 - clone the repo
