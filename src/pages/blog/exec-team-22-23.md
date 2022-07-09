@@ -16,6 +16,8 @@ With that said lets get to introducing ourselves:
 
 ### Awen - Secretary
 
+Hello hello!! I'm Awen, a second year in Computer Science and your HullCSS secretary for this year. I was previously social secretary, but this year I've exchanged pints for paperwork in the hope of actually finishing my coursework. Personal projects of mine include painting my computer pink and trying to get Doom to run on a Tamagotchi, as well as the endless task of trying to get a functional sleep schedule. My main interests in the field of computer science are accessible technologies and computing education - maybe one day I'll combine the two! Lovely to meet you, and looking forward to a great year for HullCSS!
+
 ### Ben  - Treasurer
 
 ### Ethan - Social Media Sec
