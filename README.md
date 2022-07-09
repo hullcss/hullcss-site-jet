@@ -40,7 +40,11 @@ COPY --from=builder /app/public/ /usr/share/nginx/html/
 
 Please see the [contributing guide](https://github.com/hullcss/hullcss-site-jet/blob/main/CONTRIBUTING.md)
 
+## License
+
+This and the original repo are licensed under [MIT](/LICENSE.MD)
+
 ## Credits
 Original repo is [here](https://github.com/hullcss/hullcss-site)  
 
-Original authors include [Kieran Robson](https://github.com/kieranrobson) and [Nathaniel Read](https://github.com/itisNathaniel)  
+Original authors are the University of Hull Computer Science Society and contributors, including [Kieran Robson](https://github.com/kieranrobson) and [Nathaniel Read](https://github.com/itisNathaniel)  
