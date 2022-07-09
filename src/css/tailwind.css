@@ -2326,3 +2326,9 @@ body {
 .fa {
 	font-weight: 900
 }
+
+
+.fa-github:before {
+	content: "\f092"
+}
+
