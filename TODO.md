@@ -13,7 +13,7 @@
 
 ## Road to v2.0.0
 
-[ ] blog with posts  
+[x] blog feed  
 [ ] hullblogs integration  
 [ ] events management with hullcss-discord-bot  
 [x] add docker container  
