@@ -1,13 +1,10 @@
-const pluginDate = require("eleventy-plugin-date");
-module.exports = function (eleventyConfig) {
-  eleventyConfig.addPlugin(pluginDate);
-};
-
+const pluginDate = require('eleventy-plugin-date');
 module.exports = function(eleventyConfig) {
   eleventyConfig.setUseGitIgnore(false);
   eleventyConfig.addWatchTarget('./src/css/tailwind.css');
   eleventyConfig.addPassthroughCopy('./src/img');
-  return {
+  eleventyConfig.addPlugin(pluginDate);
+	  return {
     dir: {
       input: 'src',
       output: 'public'
