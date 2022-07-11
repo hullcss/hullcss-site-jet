@@ -1,6 +1,6 @@
 {
   "name": "hullcss-jet",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "hullcss.org JET rewrite by CrimsonTome",
   "scripts": {
     "clean": "rimraf public",
