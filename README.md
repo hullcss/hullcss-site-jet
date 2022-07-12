@@ -10,7 +10,8 @@ Manual
 - `npm run dev`
 - make some changes and watch them update in the browser.
 
-Docker
+Docker  
+
 the site can also be built and ran inside a docker container
 when you are in the base of the repo:  
 - `sudo docker build -t hullcss .`  
