@@ -1586,39 +1586,6 @@ svg:not(:root) {
 	overflow: hidden
 }
 
-[type=reset],
-[type=submit],
-html [type=button] {
-	-webkit-appearance: button
-}
-
-[type=button]::-moz-focus-inner,
-[type=reset]::-moz-focus-inner,
-[type=submit]::-moz-focus-inner {
-	padding: 0;
-	border-style: none
-}
-
-[type=number]::-webkit-inner-spin-button,
-[type=number]::-webkit-outer-spin-button {
-	height: auto
-}
-
-[type=search] {
-	outline-offset: -2px;
-	-webkit-appearance: none
-}
-
-[type=search]::-webkit-search-cancel-button,
-[type=search]::-webkit-search-decoration {
-	-webkit-appearance: none
-}
-
-::-webkit-file-upload-button {
-	font: inherit;
-	-webkit-appearance: button
-}
-
 summary {
 	display: list-item;
 	cursor: pointer
