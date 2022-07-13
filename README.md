@@ -39,7 +39,7 @@ COPY --from=builder /app/public/ /usr/share/nginx/html/
 
 ## Contributing
 
-Please see the [contributing guide](https://github.com/hullcss/hullcss-site-jet/blob/main/CONTRIBUTING.md)
+Please see the [contributing guide](.github/CONTRIBUTING.md)
 
 ## License
 
