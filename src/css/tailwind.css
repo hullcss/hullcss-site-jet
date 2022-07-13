@@ -352,11 +352,6 @@ body {
 	--danger: #FF0039;
 	--light: #f8f9fa;
 	--dark: #373a3c;
-	--breakpoint-xs: 0;
-	--breakpoint-sm: 576px;
-	--breakpoint-md: 768px;
-	--breakpoint-lg: 992px;
-	--breakpoint-xl: 1200px;
 	--font-family-sans-serif: "Roboto", Calibri, Candara, Arial, sans-serif;
 	--font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace
 }
