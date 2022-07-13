@@ -144,9 +144,6 @@ body {
   .mobile-grid-33 {
     float: left;
     width: 33.33333%;
-    /* <IE7> */
-    *width: expression(Math.floor(0.33333 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + 'px');
-    /* </IE7> */
   }
 
   .mobile-prefix-33 {
@@ -159,24 +156,15 @@ body {
 
   .mobile-push-33 {
     left: 33.33333%;
-    /* <IE7> */
-    *left: expression(Math.floor(0.33333 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + 'px');
-    /* </IE7> */
   }
 
   .mobile-pull-33 {
     left: -33.33333%;
-    /* <IE7> */
-    *left: expression(Math.floor(-0.33333 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + 'px');
-    /* </IE7> */
   }
 
   .mobile-grid-66 {
     float: left;
     width: 66.66667%;
-    /* <IE7> */
-    *width: expression(Math.floor(0.66667 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + 'px');
-    /* </IE7> */
   }
 
   .mobile-prefix-66 {
@@ -189,16 +177,10 @@ body {
 
   .mobile-push-66 {
     left: 66.66667%;
-    /* <IE7> */
-    *left: expression(Math.floor(0.66667 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + 'px');
-    /* </IE7> */
   }
 
   .mobile-pull-66 {
     left: -66.66667%;
-    /* <IE7> */
-    *left: expression(Math.floor(-0.66667 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + 'px');
-    /* </IE7> */
   }
 
   .mobile-grid-100 {
@@ -219,9 +201,6 @@ body {
   .grid-10 {
     float: left;
     width: 10%;
-    /* <IE7> */
-    *width: expression(Math.floor(0.1 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + 'px');
-    /* </IE7> */
   }
 
   .prefix-10 {
@@ -234,25 +213,16 @@ body {
 
   .push-10 {
     left: 10%;
-    /* <IE7> */
-    *left: expression(Math.floor(0.1 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + 'px');
-    /* </IE7> */
   }
 
   .pull-10 {
     left: -10%;
-    /* <IE7> */
-    *left: expression(Math.floor(-0.1 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + 'px');
-    /* </IE7> */
   }
 
 
   .grid-25 {
     float: left;
     width: 25%;
-    /* <IE7> */
-    *width: expression(Math.floor(0.25 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + 'px');
-    /* </IE7> */
   }
 
   .prefix-25 {
@@ -265,24 +235,15 @@ body {
 
   .push-25 {
     left: 25%;
-    /* <IE7> */
-    *left: expression(Math.floor(0.25 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + 'px');
-    /* </IE7> */
   }
 
   .pull-25 {
     left: -25%;
-    /* <IE7> */
-    *left: expression(Math.floor(-0.25 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + 'px');
-    /* </IE7> */
   }
 
   .grid-75 {
     float: left;
     width: 75%;
-    /* <IE7> */
-    *width: expression(Math.floor(0.75 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + 'px');
-    /* </IE7> */
   }
 
   .prefix-75 {
@@ -295,24 +256,15 @@ body {
 
   .push-75 {
     left: 75%;
-    /* <IE7> */
-    *left: expression(Math.floor(0.75 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + 'px');
-    /* </IE7> */
   }
 
   .pull-75 {
     left: -75%;
-    /* <IE7> */
-    *left: expression(Math.floor(-0.75 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + 'px');
-    /* </IE7> */
   }
 
   .grid-33 {
     float: left;
     width: 33.33333%;
-    /* <IE7> */
-    *width: expression(Math.floor(0.33333 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + 'px');
-    /* </IE7> */
   }
 
   .prefix-33 {
@@ -325,24 +277,16 @@ body {
 
   .push-33 {
     left: 33.33333%;
-    /* <IE7> */
-    *left: expression(Math.floor(0.33333 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + 'px');
-    /* </IE7> */
   }
 
   .pull-33 {
     left: -33.33333%;
-    /* <IE7> */
-    *left: expression(Math.floor(-0.33333 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + 'px');
-    /* </IE7> */
   }
 
+/* Desktop Grid 66*/
   .grid-66 {
     float: left;
     width: 66.66667%;
-    /* <IE7> */
-    *width: expression(Math.floor(0.66667 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + 'px');
-    /* </IE7> */
   }
 
   .prefix-66 {
@@ -355,18 +299,16 @@ body {
 
   .push-66 {
     left: 66.66667%;
-    /* <IE7> */
     *left: expression(Math.floor(0.66667 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + 'px');
-    /* </IE7> */
   }
 
   .pull-66 {
     left: -66.66667%;
-    /* <IE7> */
     *left: expression(Math.floor(-0.66667 * (this.parentNode.offsetWidth - parseFloat(this.parentNode.currentStyle.paddingLeft) - parseFloat(this.parentNode.currentStyle.paddingRight))) + 'px');
-    /* </IE7> */
   }
 
+
+  /* Desktop Grid 100*/
   .grid-100 {
     clear: both;
     width: 100%;
