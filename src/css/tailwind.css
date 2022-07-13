@@ -28,6 +28,7 @@ body {
     width: 320px;
   }
 }
+
 .clear {
   clear: both;
   display: block;
@@ -386,10 +387,6 @@ body {
 	text-align: left;
 	background-color: #2ed164;
 	padding-top: 0!important
-}
-
-[tabindex="-1"]:focus {
-	outline: 0!important
 }
 
 h1,
@@ -1113,8 +1110,3 @@ body {
 .fa-github:before {
 	content: "\f092"
 }
-
-
-
-
-
