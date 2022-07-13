@@ -6,6 +6,7 @@ Thank you for making a contribution to the hullcss site!
 -
 
 ## Checklist
-- [ ] Tested locally using `npm run dev`
+
 - [ ] Did not add any unnecessary changes
+- [ ] Tested locally using `npm run dev` (If possible)
 - [ ] Included a screenshot of changes (If possible)
