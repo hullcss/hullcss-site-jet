@@ -4,7 +4,9 @@
 Transferring main files e.g. posts and rewriting the css to be eleventy and tailwind compliant.  
 
 ## Development
+
 Manual 
+
 - clone the repo
 - run `npm i` to install dependencies
 - `npm run dev`
