@@ -17,4 +17,4 @@
 [ ] hullblogs integration  
 [ ] events management with hullcss-discord-bot  
 [x] add docker container  
-[ ] fix the meess of CSS
+[ ] fix the mess of CSS
