@@ -17,4 +17,6 @@
 [ ] hullblogs integration  
 [ ] events management with hullcss-discord-bot  
 [x] add docker container  
-[ ] fix the mess of CSS
+[x] fix the mess of CSS (Thanks Kieran)    
+[ ] external fonts, see [#10](https://github.com/hullcss/hullcss-site-jet/issues/10)  
+
