@@ -8,7 +8,7 @@ teaser: A post introducing the new exec team for 2022-23
 
 ## **Welcome to HullCSS**
 
-This post will act as an introduction to the exec team for 2022 - 2023, and also to test out integration with [HullBlogs](https;//hullblogs.com), powered by our friends at [Freeside](https://freeside.co.uk) 😄  
+This post will act as an introduction to the exec team for 2022 - 2023, and also to test out integration with [HullBlogs](https://hullblogs.com), powered by our friends at [Freeside](https://freeside.co.uk) 😄  
 
 With that said lets get to introducing ourselves:
 
