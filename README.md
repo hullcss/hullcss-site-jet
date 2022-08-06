@@ -68,7 +68,7 @@ Please see the [contributing guide](.github/CONTRIBUTING.md)
 
 ## License
 
-This and the original repo are licensed under [MIT](/LICENSE.MD)
+hullcss-site-jet is released under the MIT License. The full license text is included in the [LICENSE](/LICENSE.MD) file in this repository. Tldr legal have a [great summary](https://tldrlegal.com/license/mit-license) of the license if you're interested.
 
 ## Credits
 Original repo is [here](https://github.com/hullcss/hullcss-site)  
