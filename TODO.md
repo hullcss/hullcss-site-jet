@@ -20,3 +20,5 @@
 [x] fix the mess of CSS (Thanks Kieran)    
 [ ] external fonts, see [#10](https://github.com/hullcss/hullcss-site-jet/issues/10)  
 
+## Other
+[ ] add [semantic versioning](https://semver.org/)
