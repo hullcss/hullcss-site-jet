@@ -3,6 +3,8 @@
 
 Transferring main files e.g. posts and rewriting the css to be eleventy and tailwind compliant.  
 
+[![Git Version](https://github.com/hullcss/hullcss-site-jet/actions/workflows/gv.yml/badge.svg)](https://github.com/hullcss/hullcss-site-jet/actions/workflows/gv.yml)
+
 ## Development
 
 Manual 
