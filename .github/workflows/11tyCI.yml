@@ -30,4 +30,4 @@ jobs:
         with:
           node-version: '18.x'
       - name: Run npm
-        run: npm run build
+        run: npm install && npm run build
