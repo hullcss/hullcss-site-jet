@@ -5,6 +5,7 @@ Transferring main files e.g. posts and rewriting the css to be eleventy and tail
 
 [![Git Version](https://github.com/hullcss/hullcss-site-jet/actions/workflows/gv.yml/badge.svg)](https://github.com/hullcss/hullcss-site-jet/actions/workflows/gv.yml)
 ![license](https://img.shields.io/github/license/hullcss/hullcss-site-jet)
+![Version](https://img.shields.io/github/package-json/v/hullcss/hullcss-site-jet)
 
 ## Development
 
