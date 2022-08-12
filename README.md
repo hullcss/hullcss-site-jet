@@ -7,6 +7,8 @@ Transferring main files e.g. posts and rewriting the css to be eleventy and tail
 ![license](https://img.shields.io/github/license/hullcss/hullcss-site-jet)
 ![Version](https://img.shields.io/github/package-json/v/hullcss/hullcss-site-jet)
 ![Repo-Size-MB](https://img.shields.io/github/repo-size/hullcss/hullcss-site-jet)
+![Monthly-Activity](https://img.shields.io/github/commit-activity/m/hullcss/hullcss-site-jet)
+![Last-Commit-Date](https://img.shields.io/github/last-commit/hullcss/hullcss-site-jet/main)
 
 ## Development
 
