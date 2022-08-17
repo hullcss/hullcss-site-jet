@@ -14,6 +14,8 @@ With that said lets get to introducing ourselves:
 
 ### Toby - President
 
+Heyyy, I’m Toby, a third-year comp sci student who was treasurer throughout the last year. I’m hoping we can push on from the growth we experienced last year and revitalise more of an academic focus this year! Other than tech I’m really into bouldering as well as supporting Liverpool FC.
+
 ### Awen - Secretary
 
 Hello hello!! I'm Awen, a second year in Computer Science and your HullCSS secretary for this year. I was previously social secretary, but this year I've exchanged pints for paperwork in the hope of actually finishing my coursework. Personal projects of mine include painting my computer pink and trying to get Doom to run on a Tamagotchi, as well as the endless task of trying to get a functional sleep schedule. My main interests in the field of computer science are accessible technologies and computing education - maybe one day I'll combine the two! Lovely to meet you, and looking forward to a great year for HullCSS!
