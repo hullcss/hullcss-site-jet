@@ -24,7 +24,7 @@ Hello hello!! I'm Awen, a second year in Computer Science and your HullCSS secre
 
 I'm Ben; a second year computer science student, who is this years treasurer who's main role is making sure we can financially function as a society and providing financial advice in the actions we take as a society. I have a few out of studies interests including music, drumming, sports, gaming. I'm looking forward to seeing what we can achieve as a society this year. 
 
-### Ethan - Social Media Sec
+### Ethan - Publicity Officer
 
 ### Rowan  - Webmaster
 
