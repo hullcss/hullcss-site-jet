@@ -26,6 +26,9 @@ I'm Ben; a second year computer science student, who is this years treasurer who
 
 ### Ethan - Publicity Officer
 
+I'm Ethan, a Second Year computer science student with a passion for code and design. As Publicity Officer, it is my role to inform all #hullCSS members of any upcoming events, meetings and learning sessions that we will run throughout the year. I also enjoy eSports and music.
+
+I am looking forward to this academic year and hope everyone enjoys it too.
 ### Rowan  - Webmaster
 
 Hi there 👋 I'm Rowan, a 2nd year computer science student and your Webmaster for this year. Whilst I don't hold much power as far as day to day runnings of the society are concerned, I believe my role is an important one nevertheless. It is my job to manage our site (what you are viewing right now), the society's [GitHub](https://github.com/hullcss), advise on contribution and security policies as well as liase with Freeside, as an admin there as well I am able to make sure we can work together effectively. You'll hear me talking a lot about Linux and open-source software. [Learn more here](https://blog.crimsontome.com).
