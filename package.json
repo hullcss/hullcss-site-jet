@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/crimsontome/hullcss-site-jet#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.1",
+    "@11ty/eleventy": "^1.0.2",
     "@11ty/eleventy-plugin-rss": "^1.2.0",
     "eleventy-plugin-date": "^1.0.0",
     "npm-run-all": "^4.1.5",
