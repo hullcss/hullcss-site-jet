@@ -14,11 +14,13 @@
 ## Road to v2.0.0
 
 [x] blog feed  
-[ ] hullblogs integration  
+[x] hullblogs integration  
 [ ] events management with hullcss-discord-bot  
 [x] add docker container  
+[ ] add auto CD with Docker and Ouroboros
 [x] fix the mess of CSS (Thanks Kieran)    
-[ ] external fonts, see [#10](https://github.com/hullcss/hullcss-site-jet/issues/10)  
+[ ] external fonts, see [#10](https://github.com/hullcss/hullcss-site-jet/issues/10)    
+[ ] condensed bootstrap
 
 ## Other
 [ ] add [semantic versioning](https://semver.org/)
