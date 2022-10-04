@@ -3,13 +3,13 @@ layout: base.html
 permalink: 'events/'
 title: 'Events'
 pagination:
-  data: collections.events
+  data: collections.event
   size: 10
   alias: events
 ---
 
 <ul>
-  {%- for post in collections.events | reverse -%}
+  {%- for post in collections.event | reverse -%}
     <li>
       <h3><a href="{{ post.url | url }}">{{ post.data.title }}</a> | {{ post.date | readableDate}}</h3>
       {% if post.data.teaser %}
