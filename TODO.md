@@ -16,6 +16,7 @@
  - [x] blog feed  
  - [x] hullblogs integration  
  - [ ] events management with hullcss-discord-bot  
+   - [ ] auto pull markdown from channel into the repository
  - [x] add docker container  
  - [x] add auto CD with Docker and Ouroboros
  - [x] fix the mess of CSS (Thanks Kieran)    
@@ -24,3 +25,4 @@
 
 ## Other
  - [ ] add [semantic versioning](https://semver.org/)
+ 
