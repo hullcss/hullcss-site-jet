@@ -144,13 +144,6 @@ body {
   /* </IE7> */
 }
 
-*, .mobile-grid-100 > *, .mobile-grid-33 > *, .mobile-grid-66 > *, .grid-10 > *, .grid-25 > *, .grid-75 > *, .grid-100 > *, .grid-33 > *, .grid-66 > * {
-  /* <IE7> */
-  *margin-left: expression((!this.className.match(/grid-[1-9]/) && this.currentStyle.display === 'block' && this.currentStyle.width === 'auto') && '10px');
-  *margin-right: expression((!this.className.match(/grid-[1-9]/) && this.currentStyle.display === 'block' && this.currentStyle.width === 'auto') && '10px');
-  /* </IE7> */
-}
-
 .grid-parent {
   padding-left: 0;
   padding-right: 0;
@@ -377,9 +370,7 @@ body {
 html {
 	font-family: sans-serif;
 	line-height: 1.15;
-	-webkit-text-size-adjust: 100%;
 	-ms-text-size-adjust: 100%;
-	-ms-overflow-style: scrollbar;
 	-webkit-tap-highlight-color: transparent
 }
 
