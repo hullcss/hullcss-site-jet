@@ -759,10 +759,6 @@ a.text-success:hover {
 	}
 }
 
-body {
-	-webkit-font-smoothing: antialiased
-}
-
 .footergrid {
 	background-color: #333;
 	padding: 20px 0;
