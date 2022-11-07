@@ -12,6 +12,16 @@ Transferring main files e.g. posts and rewriting the css to be eleventy and tail
 ![Monthly-Activity](https://img.shields.io/github/commit-activity/m/hullcss/hullcss-site-jet)
 ![Last-Commit-Date](https://img.shields.io/github/last-commit/hullcss/hullcss-site-jet/main)
 
+- [HullCSS Site - Eleventy Rewrite](#hullcss-site---eleventy-rewrite)
+  - [Development](#development)
+  - [Dockerfile](#dockerfile)
+    - [Ouroboros](#ouroboros)
+  - [Repo structure](#repo-structure)
+  - [Changelog](#changelog)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Credits](#credits)
+
 ## Development
 
 Manual 
@@ -73,7 +83,14 @@ README.md - you are reading this
 SECURITY.md - what to do if you find a security issue in ths repo
 tailwind.config.js - tailwind config file
 TODO.md - keeping track of tasks to complete
+changelog - updates the changelog file with git log formatted
+CHANGELOG.md - commit logs in a nicer format
 ```
+
+## Changelog
+
+Run `./changelog` to generate the changelog after your commit, then `git add . && git commit --amend --no-edit ` to generate the changelog  
+The changelog is available [here](CHANGELOG.md)
 
 ## Contributing
 
